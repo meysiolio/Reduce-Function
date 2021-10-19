@@ -23,4 +23,4 @@ Print only one line containing the numerator and denominator of the product of t
 ```
 **Explanation   **
 
-Required product is <img> src="CodeCogsEqn.png" </img>
+Required product is <img src="CodeCogsEqn.png" />
