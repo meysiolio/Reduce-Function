@@ -4,7 +4,7 @@ Given a list of rational numbers,find their product.
 **Input Format**
 
 First line contains ***n***, the number of rational numbers.  
-The ***i<sup>th</sup>*** of next ***n*** lines contain two integers each, the numerator( **N<sub>i</sub>** ) and denominator( **N<sub>i</sub>** ) of the  rational number in the list.  
+The ***i<sup>th</sup>*** of next ***n*** lines contain two integers each, the numerator( **D<sub>i</sub>** ) and denominator( **N<sub>i</sub>** ) of the ***i<sup>th</sup>*** rational number in the list.  
 
 **Output Format**
 
@@ -21,6 +21,6 @@ Print only one line containing the numerator and denominator of the product of t
 ```
 5 8
 ```
-**Explanation   **
+**Explanation**
 
 Required product is <img src="CodeCogsEqn.png" />
